@@ -9,7 +9,6 @@
 - What is the frequency of sales across various value ranges? Is there a sales value range that occurs most frequently?
 - Which product categories are the most sold in each region?
 - How many items are in each product category? Which category has the largest number of items?
-- - Dashboard Interaction <a href="[https://github.com/vierohedfam/Data-Analyst-Dashboard/blob/main/1_generate_summary_statistics_%26_summarize_categorical_data.py](https://github.com/vierohedfam/Data-Analyst-Dashboard/blob/main/Super%20Store.jpg)">View Dashboard</a>
 
 ## Process
 - Generate descriptive statistics such as mean, median, mode, standard deviation, variance, skewness, and quartiles for the 'Sales' column.
