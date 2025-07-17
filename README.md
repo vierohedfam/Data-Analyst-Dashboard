@@ -17,3 +17,5 @@
 - Calculate the frequency of occurrence of each 'Category' and display it in a frequency table.
 - Convert the 'Category' column data type to categorical for efficiency.
 - Demonstrate various encoding techniques for converting categorical data into numeric format.
+
+- Dashboard Interaction <a href="https://github.com/vierohedfam/Data-Analyst-Dashboard/blob/main/1_generate_summary_statistics_%26_summarize_categorical_data.py">View Dashboard</a>
